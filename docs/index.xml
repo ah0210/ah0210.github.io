@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>自游人</title><link>https://www.17you.com/</link><description>自游人 - 一起游/旅行/写作/AI/编程/美食/生活/娱乐/读书/影视仓 17you.com</description><generator>Hugo 0.154.3 &amp; FixIt v0.4.1</generator><language>zh-CN</language><managingEditor>163828@qq.com (一起游 17you.com)</managingEditor><webMaster>163828@qq.com (一起游 17you.com)</webMaster><copyright>一起游 17you.com</copyright><lastBuildDate>Fri, 09 Jan 2026 22:19:25 +0800</lastBuildDate><atom:link href="https://www.17you.com/index.xml" rel="self" type="application/rss+xml"/><item><title>官湖镇出行与住宿指南</title><link>https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/</guid><category domain="https://www.17you.com/categories/%E6%97%85%E6%B8%B8/">旅游</category><description>&lt;p&gt;&lt;img loading="lazy" src='https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/images/IMG_20211106_153701.jpg' srcset="https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/images/IMG_20211106_153701_hu_33a7dbaec334734.webp 800w, https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/images/IMG_20211106_153701_hu_d33132fbb169ee87.webp 1200w, https://www.17you.com/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/images/IMG_20211106_153701_hu_a8aec883e76d8642.webp 1600w" alt="/travelalbum/%E6%B7%B1%E5%9C%B3%E8%A7%82%E6%B9%96%E5%B0%8F%E9%95%87%E6%94%BB%E7%95%A5/images/IMG_20211106_153701.jpg" height="3072" width="4096"&gt;&lt;/p&gt;
+&lt;h3 class="heading-element" id="交通"&gt;&lt;span&gt;交通&lt;/span&gt;
+ &lt;a href="#%e4%ba%a4%e9%80%9a" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;自驾：从深圳市区走深汕高速（S30），约30 km，30‑40 分钟可到镇中心。&lt;/p&gt;</description></item><item><title>Hugo短代码Shortcodes手册中英文对照</title><link>https://www.17you.com/tool/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81shortcodes%E6%89%8B%E5%86%8C%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.17you.com/tool/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81shortcodes%E6%89%8B%E5%86%8C%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/</guid><category domain="https://www.17you.com/categories/%E7%BC%96%E7%A8%8B/">编程</category><description>&lt;h1 class="heading-element" id="shortcodes短代码"&gt;&lt;span&gt;Shortcodes 短代码&lt;/span&gt;
+ &lt;a href="#shortcodes%e7%9f%ad%e4%bb%a3%e7%a0%81" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;&lt;p&gt;Use embedded, custom, or inline shortcodes to insert elements such as videos, images, and social media embeds into your content.使用嵌入的、自定义的或内联的短代码，将视频、图像和社交媒体嵌入内容等元素插入到你的内容中。&lt;/p&gt;</description></item><item><title>网事已如风</title><link>https://www.17you.com/writing/%E7%BD%91%E4%BA%8B%E5%A6%82%E9%A3%8E/</link><pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.17you.com/writing/%E7%BD%91%E4%BA%8B%E5%A6%82%E9%A3%8E/</guid><category domain="https://www.17you.com/categories/%E9%9A%8F%E6%83%B3/">随想</category><description>&lt;pre&gt;&lt;code&gt;多少年前的故事了。。。时光如流水，一去不复回。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;　　在聊天室认识的那个女孩，今天来信说，看了我寄给她的痞子蔡写的网络小说《第一次亲密接触》，哭了整晚。&lt;br&gt;
+　　真搞不懂这些女孩子的心事，那样一篇结尾明显牵强的小说，竟让她们这样感动。&lt;br&gt;
+　　记得自己看过这篇小说以后，首先是分析了小说的结构，觉得小说确有动人之处，语言也有惊人之笔，但是感觉结尾太戏剧化了，反而破坏了小说的真实性。&lt;br&gt;
+　　不过，如果小说无此结尾，显然也就没有了分量。&lt;br&gt;
+　　作为网虫来说，痞子蔡把一个关于网上的情感故事演绎的这样让人心动，确实了不起。不过说哭了一晚，有没有点夸张啊？&lt;/p&gt;</description></item><item><title>FixIt主题中文配置详解</title><link>https://www.17you.com/programming/fixit%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%B8%AD%E6%96%87%E7%89%88/</link><pubDate>Tue, 06 Jan 2026 18:22:39 +0000</pubDate><guid>https://www.17you.com/programming/fixit%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%B8%AD%E6%96%87%E7%89%88/</guid><category domain="https://www.17you.com/categories/%E7%BC%96%E7%A8%8B/">编程</category><description>&lt;p&gt;Fixit 主题的完整的 &lt;strong&gt;中文注释版本&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# =====================================================================================
+# 建议使用「备用主题配置」来配置 FixIt 主题
+# 修改此文件可能会导致合并冲突（使用 Git 管理时需注意）
+# 当前主题组件的可配置项存在一些限制，仅支持配置以下内容：
+# 参数（params）、菜单（menu）、输出格式（outputformats）和媒体类型（mediatypes）
+# =====================================================================================
+
+# -------------------------------------------------------------------------------------
+# Hugo 基础配置
+# 参考文档：https://gohugo.io/configuration/all/
+# -------------------------------------------------------------------------------------
+
+# 网站标题
+title = &amp;#34;自游人&amp;#34;
+# 网站根域名（及路径）
+baseURL = &amp;#34;http://localhost:1313&amp;#34;
+# 启用的主题列表
+theme = [&amp;#34;FixIt&amp;#34;] # 请在你的站点配置文件中启用此主题
+# 网站默认内容语言 [&amp;#34;en&amp;#34;, &amp;#34;zh-cn&amp;#34;, &amp;#34;fr&amp;#34;, &amp;#34;pl&amp;#34;, ...]
+defaultContentLanguage = &amp;#34;en&amp;#34;
+# 网站语言代码 [&amp;#34;en&amp;#34;, &amp;#34;zh-CN&amp;#34;, &amp;#34;fr&amp;#34;, &amp;#34;pl&amp;#34;, ...]
+languageCode = &amp;#34;en&amp;#34;
+# 网站语言名称 [&amp;#34;English&amp;#34;, &amp;#34;简体中文&amp;#34;, &amp;#34;Français&amp;#34;, &amp;#34;Polski&amp;#34;, ...]
+languageName = &amp;#34;English&amp;#34;
+# 是否包含中日韩文字（用于自动处理字符间距等）
+hasCJKLanguage = false
+# 仅用于 SEO 结构化数据的版权声明
+copyright = &amp;#34;&amp;#34;
+# 是否启用 robots.txt（控制搜索引擎抓取规则）
+enableRobotsTXT = true
+# 是否启用 Git 提交日志（用于显示文章最后修改时间）
+enableGitInfo = true
+# 是否启用 Emoji 代码支持
+enableEmoji = true
+# 网站的主要内容分区
+# 如果设置，站点对象的 MainSections 方法会返回指定分区；否则返回文章数量最多的分区
+# mainSections = [&amp;#34;posts&amp;#34;]
+
+# -------------------------------------------------------------------------------------
+# 前置元数据（Front Matter）配置
+# 参考文档：https://gohugo.io/configuration/front-matter/
+# -------------------------------------------------------------------------------------
+
+[frontmatter]
+# 合并策略：浅合并（仅合并顶层字段）
+_merge = &amp;#34;shallow&amp;#34;
+# 文章最后修改时间的读取优先级（按顺序查找）
+lastmod = [
+ &amp;#34;lastmod&amp;#34;, # 优先读取 frontmatter 中的 lastmod 字段
+ &amp;#34;:git&amp;#34;, # 其次读取 Git 提交记录中的时间
+ &amp;#34;:fileModTime&amp;#34;, # 再次读取文件的修改时间
+ &amp;#34;:default&amp;#34;, # 最后使用默认值
+]
+
+# -------------------------------------------------------------------------------------
+# 图片处理配置
+# 参考文档：https://gohugo.io/configuration/imaging/
+# -------------------------------------------------------------------------------------
+
+[imaging]
+# 合并策略：浅合并
+_merge = &amp;#34;shallow&amp;#34;
+# 图片压缩质量（0-100，数值越高质量越好）
+quality = 75
+
+# -------------------------------------------------------------------------------------
+# 菜单配置
+# 参考文档：https://fixit.lruihao.cn/documentation/basics/#menu-configuration
+# -------------------------------------------------------------------------------------
+
+[menus]
+
+# 「归档」菜单配置
+[[menus.main]]
+identifier = &amp;#34;archives&amp;#34; # 菜单唯一标识
+parent = &amp;#34;&amp;#34; # 父菜单标识（无父菜单则留空）
+# 菜单名称前缀（支持 HTML 格式，可用于添加图标）
+pre = &amp;#34;&amp;#34;
+# 菜单名称后缀（支持 HTML 格式，可用于添加图标）
+post = &amp;#34;&amp;#34;
+name = &amp;#34;Archives&amp;#34; # 菜单显示名称
+url = &amp;#34;/archives/&amp;#34; # 菜单跳转链接
+# 鼠标悬浮时显示的提示文本
+title = &amp;#34;&amp;#34;
+weight = 1 # 菜单排序权重（数值越小越靠前）
+
+# FixIt 0.2.14 新增 | 支持为菜单项添加自定义配置
+[menus.main.params]
+# 为当前菜单项添加自定义 CSS 类名
+class = &amp;#34;&amp;#34;
+# 是否设为草稿菜单项（功能与草稿文章类似，不会在生产环境显示）
+draft = false
+# FixIt 0.2.16 新增 | 为当前菜单项添加 Font Awesome 图标
+icon = &amp;#34;fa-solid fa-archive&amp;#34;
+# FixIt 0.2.16 新增 | 设置菜单项显示设备，可选值：[&amp;#34;mobile&amp;#34;, &amp;#34;desktop&amp;#34;]
+type = &amp;#34;&amp;#34;
+# FixIt 0.3.9 新增 | 是否显示子菜单项的分隔线
+divided = false
+
+# 「分类」菜单配置
+[[menus.main]]
+identifier = &amp;#34;categories&amp;#34;
+parent = &amp;#34;&amp;#34;
+pre = &amp;#34;&amp;#34;
+post = &amp;#34;&amp;#34;
+name = &amp;#34;Categories&amp;#34;
+url = &amp;#34;/categories/&amp;#34;
+title = &amp;#34;&amp;#34;
+weight = 2
+
+[menus.main.params]
+icon = &amp;#34;fa-solid fa-folder-tree&amp;#34;
+
+# 「标签」菜单配置
+[[menus.main]]
+identifier = &amp;#34;tags&amp;#34;
+parent = &amp;#34;&amp;#34;
+pre = &amp;#34;&amp;#34;
+post = &amp;#34;&amp;#34;
+name = &amp;#34;Tags&amp;#34;
+url = &amp;#34;/tags/&amp;#34;
+title = &amp;#34;&amp;#34;
+weight = 3
+
+[menus.main.params]
+icon = &amp;#34;fa-solid fa-tags&amp;#34;
+
+# -------------------------------------------------------------------------------------
+# 相关内容配置
+# 参考文档：https://gohugo.io/content-management/related-content/
+# -------------------------------------------------------------------------------------
+
+[related]
+# 是否包含发布时间晚于当前文章的内容
+includeNewer = false
+# 匹配阈值（0-100）：仅匹配得分≥此值的文章才会被推荐
+threshold = 80
+# 匹配时是否将内容转为小写（忽略大小写）
+toLower = false
+
+# 自定义匹配索引规则 1：关键词匹配
+[[related.indices]]
+# 是否启用过滤规则
+applyFilter = false
+# 基数阈值（控制匹配的精准度）
+cardinalityThreshold = 0
+# 匹配字段名称（此处留空，默认匹配文章关键词）
+name = &amp;#39;keywords&amp;#39;
+# 匹配模式（正则表达式，留空则为精确匹配）
+pattern = &amp;#39;&amp;#39;
+# 匹配时是否忽略大小写
+toLower = false
+# 索引类型：基础匹配
+type = &amp;#39;basic&amp;#39;
+# 匹配权重（数值越高，优先级越高）
+weight = 100
+
+# 自定义匹配索引规则 2：日期匹配
+[[related.indices]]
+applyFilter = false
+cardinalityThreshold = 0
+name = &amp;#39;date&amp;#39;
+pattern = &amp;#39;&amp;#39;
+toLower = false
+type = &amp;#39;basic&amp;#39;
+weight = 10
+
+# 自定义匹配索引规则 3：标签匹配
+[[related.indices]]
+applyFilter = false
+cardinalityThreshold = 0
+name = &amp;#39;tags&amp;#39;
+pattern = &amp;#39;&amp;#39;
+toLower = false
+type = &amp;#39;basic&amp;#39;
+weight = 80
+
+# 自定义匹配索引规则 4：片段引用匹配
+[[related.indices]]
+applyFilter = false
+name = &amp;#39;fragmentrefs&amp;#39;
+# 索引类型：片段引用匹配（适用于文章内互相引用的场景）
+type = &amp;#39;fragments&amp;#39;
+weight = 80
+
+# -------------------------------------------------------------------------------------
+# 模块配置
+# 参考文档：https://gohugo.io/configuration/module/
+# -------------------------------------------------------------------------------------
+
+[module]
+
+# Hugo 版本兼容性配置
+[module.hugoVersion]
+# 是否需要 Hugo 扩展版（支持 SCSS/SASS 等功能）
+extended = true
+# 最低支持的 Hugo 版本
+min = &amp;#34;0.147.7&amp;#34;
+
+# -------------------------------------------------------------------------------------
+# 标记语言（Markdown）配置
+# 参考文档：https://gohugo.io/configuration/markup/
+# -------------------------------------------------------------------------------------
+
+[markup]
+# 合并策略：浅合并
+_merge = &amp;#34;shallow&amp;#34;
+
+# 语法高亮配置（参考文档：https://gohugo.io/content-management/syntax-highlighting）
+[markup.highlight]
+# ~~~~~~~~~~ 必须配置的项 ~~~~~~~~~~
+# 参考：https://github.com/hugo-fixit/FixIt/issues/43
+# 是否启用代码块语法高亮
+codeFences = true
+# 是否不生成 CSS 类名（false 表示生成类名，便于自定义样式）
+noClasses = false
+# ~~~~~~~~~~ 必须配置的项 ~~~~~~~~~~
+# 是否为行号添加锚点链接
+anchorLineNos = false
+# 是否自动识别代码语言
+guessSyntax = true
+# 是否显示代码行号
+lineNos = true
+# 是否将行号放在表格中（便于样式控制）
+lineNumbersInTable = true
+
+# Goldmark 配置：Hugo 0.60 及以上版本默认的 Markdown 渲染引擎
+# 参考文档：https://gohugo.io/configuration/markup/#goldmark
+[markup.goldmark]
+# 是否允许重复的资源文件
+duplicateResourceFiles = false
+
+# Goldmark 扩展功能配置
+[markup.goldmark.extensions]
+# 是否启用定义列表
+definitionList = true
+# 是否启用脚注
+footnote = true
+# 是否自动将文本中的链接转为可点击链接
+linkify = true
+# 自动链接使用的协议
+linkifyProtocol = &amp;#39;https&amp;#39;
+# 是否启用删除线（~~文本~~）
+strikethrough = false
+# 是否启用表格
+table = true
+# 是否启用任务列表（- [ ] 待办 / - [x] 已完成）
+taskList = true
+# 是否启用排版优化（如将引号转为弯引号）
+typographer = true
+
+# Goldmark 额外扩展配置（参考文档：https://gohugo.io/configuration/markup/#extras）
+[markup.goldmark.extensions.extras]
+
+# 启用删除线（&amp;lt;del&amp;gt; 标签）
+[markup.goldmark.extensions.extras.delete]
+enable = true
+
+# 启用插入线（&amp;lt;ins&amp;gt; 标签）
+[markup.goldmark.extensions.extras.insert]
+enable = true
+
+# 启用标记高亮（&amp;lt;mark&amp;gt; 标签）
+[markup.goldmark.extensions.extras.mark]
+enable = true
+
+# 启用下标（&amp;lt;sub&amp;gt; 标签）
+[markup.goldmark.extensions.extras.subscript]
+enable = true
+
+# 启用上标（&amp;lt;sup&amp;gt; 标签）
+[markup.goldmark.extensions.extras.superscript]
+enable = true
+
+# 数学公式支持配置（参考文档：https://gohugo.io/content-management/mathematics/）
+[markup.goldmark.extensions.passthrough]
+# 是否启用公式透传（不转义公式语法）
+enable = true
+
+# 公式分隔符配置
+[markup.goldmark.extensions.passthrough.delimiters]
+# 块级公式分隔符（多行公式）
+block = [
+ [
+ &amp;#39;\[&amp;#39;, # 开始标记
+ &amp;#39;\]&amp;#39; # 结束标记
+ ],
+ [
+ &amp;#39;$$&amp;#39;, # 开始标记
+ &amp;#39;$$&amp;#39; # 结束标记
+ ]
+]
+# 行内公式分隔符（单行公式）
+inline = [
+ [
+ &amp;#39;\(&amp;#39;, # 开始标记
+ &amp;#39;\)&amp;#39; # 结束标记
+ ],
+ [
+ &amp;#39;$&amp;#39;, # 开始标记
+ &amp;#39;$&amp;#39; # 结束标记
+ ]
+]
+
+# Goldmark 解析器配置
+[markup.goldmark.parser]
+
+# 为 Markdown 元素添加属性的配置
+[markup.goldmark.parser.attribute]
+# 是否允许为块级元素添加属性（如 {.class #id}）
+block = true
+# 是否允许为标题添加属性
+title = true
+
+# Goldmark 渲染器配置
+[markup.goldmark.renderer]
+# 是否将换行符转为 &amp;lt;br&amp;gt; 标签
+hardWraps = false
+# 是否允许在 Markdown 中直接使用 HTML 标签
+unsafe = true
+# 是否生成 XHTML 格式的输出
+xhtml = false
+
+# -------------------------------------------------------------------------------------
+# 站点地图配置
+# 参考文档：https://gohugo.io/templates/sitemap/#configuration
+# -------------------------------------------------------------------------------------
+
+[sitemap]
+# 搜索引擎抓取频率（可选值：always, hourly, daily, weekly, monthly, yearly, never）
+changefreq = &amp;#34;weekly&amp;#34;
+# 是否禁用站点地图生成
+disable = false
+# 生成的站点地图文件名
+filename = &amp;#34;sitemap.xml&amp;#34;
+# 页面优先级（0.0-1.0，数值越高优先级越高）
+priority = 0.5
+
+# -------------------------------------------------------------------------------------
+# 永久链接（Permalinks）配置
+# 参考文档：https://gohugo.io/content-management/urls/#permalinks
+# -------------------------------------------------------------------------------------
+
+[permalinks]
+
+# 单篇文章的永久链接规则
+[permalinks.page]
+# posts = &amp;#34;/p/:slugorcontentbasename&amp;#34;
+
+# 分类目录的永久链接规则
+[permalinks.section]
+# posts = &amp;#34;/posts/:slugorcontentbasename&amp;#34;
+
+# 分类法页面的永久链接规则
+[permalinks.taxonomy]
+
+# 分类术语页面的永久链接规则
+[permalinks.term]
+
+# -------------------------------------------------------------------------------------
+# 隐私政策配置
+# 参考文档：https://gohugo.io/configuration/privacy/
+# -------------------------------------------------------------------------------------
+
+[privacy]
+
+# X（原 Twitter）隐私配置
+[privacy.x]
+# 是否启用「禁止跟踪」（Do Not Track）功能
+enableDNT = true
+
+# YouTube 隐私配置
+[privacy.youtube]
+# 是否启用增强隐私模式（不加载额外跟踪脚本）
+privacyEnhanced = true
+
+# -------------------------------------------------------------------------------------
+# 媒体类型配置
+# 参考文档：https://gohugo.io/configuration/media-types/
+# -------------------------------------------------------------------------------------
+
+[mediaTypes]
+# 示例：配置 JSON 订阅源的媒体类型
+# [mediaTypes.&amp;#34;application/feed&amp;#43;json&amp;#34;]
+# suffixes = [&amp;#34;json&amp;#34;]
+
+# -------------------------------------------------------------------------------------
+# 输出格式配置
+# 参考文档：https://gohugo.io/configuration/output-formats/
+# -------------------------------------------------------------------------------------
+
+[outputFormats]
+
+# FixIt 0.3.0 新增 | 配置生成 /archives/index.html 文件的规则
+[outputFormats.archives]
+path = &amp;#34;archives&amp;#34; # 输出目录
+baseName = &amp;#34;index&amp;#34; # 文件名
+mediaType = &amp;#34;text/html&amp;#34; # 媒体类型
+isPlainText = false # 是否为纯文本文件
+isHTML = true # 是否为 HTML 文件
+permalinkable = true # 是否生成永久链接
+notAlternative = true # 是否不作为替代格式
+
+# FixIt 0.3.0 新增 | 配置生成 /offline/index.html 文件的规则
+[outputFormats.offline]
+path = &amp;#34;offline&amp;#34;
+baseName = &amp;#34;index&amp;#34;
+mediaType = &amp;#34;text/html&amp;#34;
+isPlainText = false
+isHTML = true
+permalinkable = true
+notAlternative = true
+
+# FixIt 0.3.0 新增 | 配置生成 readme.md 文件的规则
+[outputFormats.readme]
+baseName = &amp;#34;readme&amp;#34;
+mediaType = &amp;#34;text/markdown&amp;#34;
+isPlainText = true
+isHTML = false
+notAlternative = true
+
+# FixIt 0.3.0 变更 | 配置生成 baidu_urls.txt 文件的规则
+[outputFormats.baidu_urls]
+baseName = &amp;#34;baidu_urls&amp;#34;
+mediaType = &amp;#34;text/plain&amp;#34;
+isPlainText = true
+isHTML = false
+notAlternative = true
+
+# FixIt 0.3.10 新增 | 配置生成 search.json 文件的规则（用于站点搜索）
+[outputFormats.search]
+baseName = &amp;#34;search&amp;#34;
+mediaType = &amp;#34;application/json&amp;#34;
+rel = &amp;#34;search&amp;#34; # 关联类型（用于 SEO）
+isPlainText = true
+isHTML = false
+permalinkable = true
+
+# -------------------------------------------------------------------------------------
+# 输出内容配置
+# 参考文档：https://gohugo.io/configuration/outputs/
+# -------------------------------------------------------------------------------------
+
+# 配置 Hugo 生成的文件类型，可选值如下：
+# home = [&amp;#34;html&amp;#34;, &amp;#34;rss&amp;#34;, &amp;#34;archives&amp;#34;, &amp;#34;offline&amp;#34;, &amp;#34;readme&amp;#34;, &amp;#34;baidu_urls&amp;#34;, &amp;#34;search&amp;#34;]
+# page = [&amp;#34;html&amp;#34;, &amp;#34;markdown&amp;#34;]
+# section = [&amp;#34;html&amp;#34;, &amp;#34;rss&amp;#34;]
+# taxonomy = [&amp;#34;html&amp;#34;]
+# term = [&amp;#34;html&amp;#34;, &amp;#34;rss&amp;#34;]
+[outputs]
+# 合并策略：浅合并
+_merge = &amp;#34;shallow&amp;#34;
+# 首页输出格式
+home = [
+ &amp;#34;html&amp;#34;,
+ &amp;#34;rss&amp;#34;,
+ &amp;#34;archives&amp;#34;,
+ &amp;#34;offline&amp;#34;,
+ &amp;#34;search&amp;#34;
+]
+# 单篇文章输出格式
+page = [
+ &amp;#34;html&amp;#34;,
+ &amp;#34;markdown&amp;#34;
+]
+# 分类目录输出格式
+section = [
+ &amp;#34;html&amp;#34;,
+ &amp;#34;rss&amp;#34;
+]
+# 分类法页面输出格式
+taxonomy = [ &amp;#34;html&amp;#34; ]
+# 分类术语页面输出格式
+term = [
+ &amp;#34;html&amp;#34;,
+ &amp;#34;rss&amp;#34;
+]
+
+# -------------------------------------------------------------------------------------
+# 分类法配置
+# 参考文档：https://gohugo.io/configuration/taxonomies/
+# -------------------------------------------------------------------------------------
+
+[taxonomies]
+# 合并策略：浅合并
+_merge = &amp;#34;shallow&amp;#34;
+# 分类配置：URL 路径为 /categories/
+category = &amp;#34;categories&amp;#34;
+# 标签配置：URL 路径为 /tags/
+tag = &amp;#34;tags&amp;#34;
+# 集合配置：URL 路径为 /collections/
+collection = &amp;#34;collections&amp;#34;
+
+# -------------------------------------------------------------------------------------
+# 主题核心配置
+# 参考文档：https://fixit.lruihao.cn/documentation/basics/#theme-configuration
+# -------------------------------------------------------------------------------------
+
+[params]
+# FixIt 0.2.15 变更 | FixIt 主题版本号
+# 示例：&amp;#34;0.2.X&amp;#34;, &amp;#34;0.2.15&amp;#34;, &amp;#34;v0.2.15&amp;#34; 等
+version = &amp;#34;0.4.X&amp;#34;
+# 网站描述（用于 SEO）
+description = &amp;#34;&amp;#34;
+# 网站关键词（用于 SEO，数组格式）
+keywords = []
+# 网站默认主题模式 [&amp;#34;light&amp;#34; 亮色, &amp;#34;dark&amp;#34; 暗色, &amp;#34;auto&amp;#34; 跟随系统]
+defaultTheme = &amp;#34;auto&amp;#34;
+# 用于子资源完整性校验（SRI）的哈希算法
+# 可选值：[&amp;#34;sha256&amp;#34;, &amp;#34;sha384&amp;#34;, &amp;#34;sha512&amp;#34;, &amp;#34;md5&amp;#34;]，留空则不启用 SRI
+fingerprint = &amp;#34;&amp;#34;
+# 日期显示格式（Go 语言时间格式）
+dateFormat = &amp;#34;2006-01-02&amp;#34;
+# 用于 Open Graph 和 Twitter 卡片的网站默认图片（数组格式）
+images = []
+# FixIt 0.2.12 新增 | 是否启用渐进式网页应用（PWA）
+enablePWA = false
+# FixIt 0.2.14 新增 | 是否自动为外部链接添加外部图标
+externalIcon = false
+# FixIt 0.3.13 新增 | 是否将页面标题首字母大写
+capitalizeTitles = true
+# FixIt 0.3.0 新增 | 是否将网站标题添加到每个页面的标题中
+# 请确保在 hugo.toml 中设置了网站标题（例如 title = &amp;#34;网站标题&amp;#34;）
+withSiteTitle = true
+# FixIt 0.3.0 新增 | 网站标题与页面标题的分隔符
+titleDelimiter = &amp;#34;-&amp;#34;
+# FixIt 0.3.0 新增 | 是否将网站副标题添加到首页标题中
+# 需通过 params.header.subtitle.name 配置网站副标题
+indexWithSubtitle = false
+# FixIt 0.3.13 新增 | 是否以纯文本形式显示文章摘要
+summaryPlainify = false
+# FixIt 0.4.0 新增 | 是否启用缺失翻译的合并功能
+# 设置为 true 时，会合并并显示其他语言中缺失的翻译内容
+# 单语言站点建议设为 false 以提升性能
+# 多语言站点设为 true 可显示全部内容
+enableTranslationMerge = false
+# FixIt 0.2.14 新增 | FixIt 默认仅在首页的 HTML 头部注入主题元标签
+# 你可以关闭此功能，但我们建议保留——这有助于统计 FixIt 主题的使用热度
+disableThemeInject = false
+
+# 作者信息配置
+[params.author]
+name = &amp;#34;&amp;#34; # 作者姓名
+email = &amp;#34;&amp;#34; # 作者邮箱
+link = &amp;#34;&amp;#34; # 作者主页链接
+avatar = &amp;#34;&amp;#34; # 作者头像图片链接
+
+# FixIt 0.3.0 新增 | 公共 Git 仓库信息（仅在 enableGitInfo 为 true 时生效）
+[params.gitInfo]
+# 仓库地址，示例：&amp;#34;https://github.com/hugo-fixit/docs&amp;#34;
+repo = &amp;#34;&amp;#34;
+# 仓库分支
+branch = &amp;#34;main&amp;#34;
+# 内容目录相对于仓库根目录的路径
+dir = &amp;#34;content&amp;#34;
+# 文章问题反馈的模板链接（支持参数替换）
+# 可用参数：{title} 文章标题 {URL} 文章链接 {sourceURL} 源文件链接
+issueTpl = &amp;#34;title=[BUG]%20{title}&amp;amp;body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|URL|{URL}|%0A|Filename|{sourceURL}|&amp;#34;
+
+# 应用图标配置
+[params.app]
+# 当网站添加到 iOS 主屏幕或 Android 启动器时，覆盖默认的网站标题
+title = &amp;#34;FixIt&amp;#34;
+# 是否省略 favicon 图标资源链接
+noFavicon = false
+# 用于替代传统 png/ico 图标的现代 SVG 图标
+svgFavicon = &amp;#34;&amp;#34;
+# Safari 浏览器的遮罩图标颜色
+iconColor = &amp;#34;#5bbad5&amp;#34;
+# Windows 8-10 系统的磁贴颜色
+tileColor = &amp;#34;#da532c&amp;#34;
+
+# FixIt 0.2.12 变更 | Android 浏览器的主题颜色配置
+[params.app.themeColor]
+light = &amp;#34;#f8f8f8&amp;#34; # 亮色模式下的主题颜色
+dark = &amp;#34;#252627&amp;#34; # 暗色模式下的主题颜色
+
+# 搜索功能配置
+[params.search]
+enable = false # 是否启用搜索功能
+# 搜索引擎类型 [&amp;#34;algolia&amp;#34; 第三方搜索, &amp;#34;fuse&amp;#34; 本地搜索, &amp;#34;cse&amp;#34; 自定义搜索, &amp;#34;post-chat&amp;#34; AI 搜索]
+type = &amp;#34;fuse&amp;#34;
+contentLength = 4000 # 搜索索引的最大内容长度
+placeholder = &amp;#34;&amp;#34; # 搜索框占位提示文本
+maxResultLength = 10 # 最大搜索结果数量
+snippetLength = 30 # 搜索结果摘要长度
+highlightTag = &amp;#34;em&amp;#34; # 搜索结果中高亮文本的 HTML 标签
+absoluteURL = false # 搜索索引中是否使用基于 baseURL 的绝对链接
+# FixIt 0.4.0 新增 | 是否为搜索结果中的标题添加锚点链接
+anchorify = true
+
+# Algolia 搜索配置
+[params.search.algolia]
+index = &amp;#34;&amp;#34; # Algolia 索引名称
+appID = &amp;#34;&amp;#34; # Algolia 应用 ID
+searchKey = &amp;#34;&amp;#34; # Algolia 搜索密钥
+
+# FixIt 0.2.17 新增 | Fuse.js 本地搜索配置（参考文档：https://fusejs.io/api/options.html）
+[params.search.fuse]
+isCaseSensitive = false # 是否区分大小写
+minMatchCharLength = 2 # 最小匹配字符长度
+findAllMatches = false # 是否查找所有匹配项
+location = 0 # 匹配位置的权重
+threshold = 0.3 # 匹配阈值（0-1，数值越小越精准）
+distance = 100 # 匹配距离
+ignoreLocation = false # 是否忽略匹配位置
+useExtendedSearch = false # 是否启用扩展搜索
+ignoreFieldNorm = false # 是否忽略字段标准化
+
+# FixIt 0.3.16 新增 | 自定义搜索引擎（CSE）配置
+[params.cse]
+# 搜索引擎类型 [&amp;#34;google&amp;#34; 谷歌, &amp;#34;bing&amp;#34; 必应]
+engine = &amp;#34;&amp;#34;
+# 搜索结果页面的 URL（对应 layout: search 模板）
+resultsPage = &amp;#34;/search/&amp;#34;
+
+# Google 自定义搜索引擎配置（参考文档：https://programmablesearchengine.google.com/）
+[params.cse.google]
+cx = &amp;#34;&amp;#34; # Google CSE 的上下文 ID
+
+# 必应自定义搜索引擎配置（暂不支持）
+[params.cse.bing]
+
+# 头部导航栏配置
+[params.header]
+# FixIt 0.2.13 变更 | 桌面端头部导航栏模式 [&amp;#34;sticky&amp;#34; 粘性, &amp;#34;normal&amp;#34; 普通, &amp;#34;auto&amp;#34; 自动]
+desktopMode = &amp;#34;sticky&amp;#34;
+# FixIt 0.2.13 变更 | 移动端头部导航栏模式 [&amp;#34;sticky&amp;#34; 粘性, &amp;#34;normal&amp;#34; 普通, &amp;#34;auto&amp;#34; 自动]
+mobileMode = &amp;#34;auto&amp;#34;
+
+# 头部标题配置
+[params.header.title]
+# Logo 图片的 URL
+logo = &amp;#34;&amp;#34;
+# 标题名称
+name = &amp;#34;&amp;#34;
+# 标题前缀（支持 HTML 格式，可用于添加图标）
+pre = &amp;#34;&amp;#34;
+# 标题后缀（支持 HTML 格式，可用于添加图标）
+post = &amp;#34;&amp;#34;
+# 是否为标题名称启用打字机动画效果
+typeit = false
+
+# FixIt 0.2.12 新增 | 头部副标题配置
+[params.header.subtitle]
+# 副标题名称
+name = &amp;#34;&amp;#34;
+# 是否为副标题启用打字机动画效果
+typeit = false
+
+# FixIt 0.2.18 新增 | 面包屑导航配置
+[params.breadcrumb]
+enable = false # 是否启用面包屑导航
+sticky = false # 是否粘性固定面包屑导航
+showHome = false # 是否显示首页链接
+# FixIt 0.3.13 新增 | 面包屑导航的分隔符
+separator = &amp;#34;/&amp;#34;
+# FixIt 0.3.13 新增 | 是否将面包屑导航的文本首字母大写
+capitalize = true
+
+# FixIt 0.3.10 新增 | 文章导航配置（上一篇/下一篇）
+[params.navigation]
+# 是否在分类目录页面显示文章导航
+inSection = false
+# 是否反转上一篇/下一篇的顺序
+reverse = false
+
+# 底部页脚配置
+[params.footer]
+enable = true # 是否启用页脚
+copyright = true # 是否显示版权信息
+author = true # 是否显示作者信息
+since = &amp;#34;&amp;#34; # 网站创立年份
+# FixIt 0.2.12 新增 | 备案信息（仅中国站点需要，支持 HTML 格式）
+icp = &amp;#34;&amp;#34;
+# 许可证信息（支持 HTML 格式）
+license = &amp;#34;&amp;#34;
+
+# FixIt 0.3.0 新增 | 是否显示 Hugo 和主题信息
+[params.footer.powered]
+enable = true # 是否启用
+hugoLogo = true # 是否显示 Hugo 图标
+themeLogo = true # 是否显示 FixIt 主题图标
+
+# FixIt 0.2.17 变更 | 网站运行时间配置
+[params.footer.siteTime]
+enable = false # 是否启用
+animate = true # 是否启用动画效果
+icon = &amp;#34;fa-solid fa-heartbeat&amp;#34; # 图标
+pre = &amp;#34;&amp;#34; # 前缀文本
+value = &amp;#34;&amp;#34; # 初始时间，示例：&amp;#34;2021-12-18T16:15:22&amp;#43;08:00&amp;#34;
+
+# FixIt 0.2.17 新增 | 页脚各模块的显示顺序，可选值：[&amp;#34;first&amp;#34;, 0, 1, 2, 3, 4, 5, &amp;#34;last&amp;#34;]
+[params.footer.order]
+powered = 0 # 技术支持模块顺序
+copyright = 0 # 版权信息模块顺序
+statistics = 0 # 统计信息模块顺序
+visitor = 0 # 访客数量模块顺序
+beian = 0 # 备案信息模块顺序
+
+# FixIt 0.3.0 新增 | 归档页面配置（所有 posts 类型的文章）
+[params.archives]
+paginate = 20 # 归档页面每页显示的文章数量
+dateFormat = &amp;#34;01-02&amp;#34; # 日期显示格式（月-日）
+
+# 分类目录页面配置（分类下的所有文章）
+[params.section]
+paginate = 20 # 分类页面每页显示的文章数量
+dateFormat = &amp;#34;01-02&amp;#34; # 日期显示格式（月-日）
+
+# FixIt 0.3.10 新增 | 分类目录的订阅源配置（支持 RSS、Atom、JSON 格式）
+[params.section.feed]
+limit = -1 # 订阅源包含的文章数量（-1 表示全部）
+fullText = false # 是否在订阅源中显示文章全文
+
+# 分类术语列表页面配置（分类/标签下的文章列表）
+[params.list]
+paginate = 20 # 列表页面每页显示的文章数量
+dateFormat = &amp;#34;01-02&amp;#34; # 日期显示格式（月-日）
+
+# FixIt 0.3.10 新增 | 分类术语列表的订阅源配置
+[params.list.feed]
+limit = -1 # 订阅源包含的文章数量（-1 表示全部）
+fullText = false # 是否在订阅源中显示文章全文
+
+# FixIt 0.3.13 新增 | 最近更新文章的显示配置（适用于归档、分类、术语列表页面）
+[params.recentlyUpdated]
+archives = true # 归档页面是否显示
+section = true # 分类页面是否显示
+list = true # 术语列表页面是否显示
+days = 30 # 最近更新的时间范围（天）
+maxCount = 10 # 最多显示的文章数量
+
+# FixIt 0.2.17 新增 | 标签云配置（标签页面专用）
+[params.tagcloud]
+enable = false # 是否启用标签云
+min = 14 # 标签的最小字体大小（px）
+max = 32 # 标签的最大字体大小（px）
+peakCount = 10 # 单个标签对应的最大文章数量
+orderby = &amp;#34;name&amp;#34; # 标签排序方式，可选值：[&amp;#34;name&amp;#34; 按名称, &amp;#34;count&amp;#34; 按数量]
+
+# 首页配置
+[params.home]
+
+# 首页个人资料卡片配置
+[params.home.profile]
+enable = false # 是否启用个人资料卡片
+# FixIt 0.4.0 新增 | 是否仅在首页的第一页显示个人资料和内容
+onlyFirstPage = false
+# Gravatar 邮箱（用于自动获取头像，优先级高于 avatarURL）
+gravatarEmail = &amp;#34;&amp;#34;
+# 首页头像的 URL（默认使用作者头像 params.author.avatar）
+avatarURL = &amp;#34;&amp;#34;
+# FixIt 0.2.17 新增 | 头像链接对应的菜单标识
+avatarMenu = &amp;#34;&amp;#34;
+# 首页显示的标题（支持 HTML 格式）
+title = &amp;#34;&amp;#34;
+# 首页显示的副标题（支持 HTML 格式）
+subtitle = &amp;#34;&amp;#34;
+# 是否为副标题启用打字机动画效果
+typeit = true
+# 是否显示社交链接
+social = true
+# 免责声明文本（支持 HTML 格式）
+disclaimer = &amp;#34;&amp;#34;
+
+# 首页文章列表配置
+[params.home.posts]
+enable = true # 是否启用首页文章列表
+paginate = 6 # 首页每页显示的文章数量
+
+# FixIt 0.2.16 变更 | 作者社交链接配置
+[params.social]
+GitHub = &amp;#34;&amp;#34;
+Linkedin = &amp;#34;&amp;#34;
+Twitter = &amp;#34;&amp;#34;
+Instagram = &amp;#34;&amp;#34;
+Facebook = &amp;#34;&amp;#34;
+Telegram = &amp;#34;&amp;#34;
+Medium = &amp;#34;&amp;#34;
+Gitlab = &amp;#34;&amp;#34;
+Youtubelegacy = &amp;#34;&amp;#34;
+Youtubecustom = &amp;#34;&amp;#34;
+Youtubechannel = &amp;#34;&amp;#34;
+Tumblr = &amp;#34;&amp;#34;
+Quora = &amp;#34;&amp;#34;
+Keybase = &amp;#34;&amp;#34;
+Pinterest = &amp;#34;&amp;#34;
+Reddit = &amp;#34;&amp;#34;
+Codepen = &amp;#34;&amp;#34;
+FreeCodeCamp = &amp;#34;&amp;#34;
+Bitbucket = &amp;#34;&amp;#34;
+Stackoverflow = &amp;#34;&amp;#34;
+Weibo = &amp;#34;&amp;#34;
+Odnoklassniki = &amp;#34;&amp;#34;
+VK = &amp;#34;&amp;#34;
+Flickr = &amp;#34;&amp;#34;
+Xing = &amp;#34;&amp;#34;
+Snapchat = &amp;#34;&amp;#34;
+Mix = &amp;#34;&amp;#34;
+Goodreads = &amp;#34;&amp;#34;
+Lastfm = &amp;#34;&amp;#34;
+Foursquare = &amp;#34;&amp;#34;
+Hackernews = &amp;#34;&amp;#34;
+Kickstarter = &amp;#34;&amp;#34;
+Patreon = &amp;#34;&amp;#34;
+Steam = &amp;#34;&amp;#34;
+Twitch = &amp;#34;&amp;#34;
+Strava = &amp;#34;&amp;#34;
+Skype = &amp;#34;&amp;#34;
+Whatsapp = &amp;#34;&amp;#34;
+Zhihu = &amp;#34;&amp;#34;
+Douban = &amp;#34;&amp;#34;
+Angellist = &amp;#34;&amp;#34;
+Slidershare = &amp;#34;&amp;#34;
+Jsfiddle = &amp;#34;&amp;#34;
+Deviantart = &amp;#34;&amp;#34;
+Behance = &amp;#34;&amp;#34;
+Dribbble = &amp;#34;&amp;#34;
+Wordpress = &amp;#34;&amp;#34;
+Vine = &amp;#34;&amp;#34;
+Googlescholar = &amp;#34;&amp;#34;
+Researchgate = &amp;#34;&amp;#34;
+Mastodon = &amp;#34;&amp;#34;
+Thingiverse = &amp;#34;&amp;#34;
+Devto = &amp;#34;&amp;#34;
+Gitea = &amp;#34;&amp;#34;
+XMPP = &amp;#34;&amp;#34;
+Matrix = &amp;#34;&amp;#34;
+Bilibili = &amp;#34;&amp;#34;
+ORCID = &amp;#34;&amp;#34;
+Liberapay = &amp;#34;&amp;#34;
+Ko-Fi = &amp;#34;&amp;#34;
+BuyMeaCoffee = &amp;#34;&amp;#34;
+Linktree = &amp;#34;&amp;#34;
+QQ = &amp;#34;&amp;#34;
+QQGroup = &amp;#34;&amp;#34; # QQ 群链接，参考：https://qun.qq.com/join.html
+Diaspora = &amp;#34;&amp;#34;
+CSDN = &amp;#34;&amp;#34;
+Discord = &amp;#34;&amp;#34;
+DiscordInvite = &amp;#34;&amp;#34;
+Lichess = &amp;#34;&amp;#34;
+Pleroma = &amp;#34;&amp;#34;
+Kaggle = &amp;#34;&amp;#34;
+MediaWiki = &amp;#34;&amp;#34;
+Plume = &amp;#34;&amp;#34;
+HackTheBox = &amp;#34;&amp;#34;
+RootMe = &amp;#34;&amp;#34;
+Feishu = &amp;#34;&amp;#34;
+TryHackMe = &amp;#34;&amp;#34;
+Douyin = &amp;#34;&amp;#34;
+TikTok = &amp;#34;&amp;#34;
+Credly = &amp;#34;&amp;#34;
+Bluesky = &amp;#34;&amp;#34;
+Phone = &amp;#34;&amp;#34;
+Email = &amp;#34;&amp;#34;
+RSS = true
+
+# 自定义社交链接的示例（可按需添加）
+# [params.social.twitter]
+# id = &amp;#34;lruihao&amp;#34; # 社交账号 ID
+# weight = 3 # 排序权重
+# prefix = &amp;#34;https://twitter.com/&amp;#34; # 链接前缀
+# Title = &amp;#34;Twitter&amp;#34; # 链接标题
+
+# [params.social.twitter.icon]
+# class = &amp;#34;fa-brands fa-x-twitter fa-fw&amp;#34; # 图标 CSS 类名
+
+# 打字机动画配置
+[params.typeit]
+speed = 100 # 字符输入速度（毫秒/字符）
+cursorSpeed = 1000 # 光标闪烁速度（毫秒）
+cursorChar = &amp;#34;|&amp;#34; # 光标字符（支持 HTML 格式）
+duration = -1 # 动画持续时间（毫秒，-1 表示无限循环）
+# FixIt 0.2.18 新增 | 动画完成后是否持续循环
+loop = false
+
+# FixIt 0.2.15 新增 | Mermaid 流程图配置
+# 参考文档：http://fixit.lruihao.cn/documentation/content-management/diagrams-support/mermaid/
+[params.mermaid]
+# FixIt 0.4.0 新增 | Mermaid ESM 模块的 CDN 地址
+# 默认值：https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs
+cdn = &amp;#34;&amp;#34;
+# FixIt 0.4.0 新增 | ZenUML ESM 模块的 CDN 地址
+# 默认留空，设置后可启用 ZenUML 支持
+# 示例：https://cdn.jsdelivr.net/npm/@mermaid-js/mermaid-zenuml/dist/mermaid-zenuml.esm.min.mjs
+zenuml = &amp;#34;&amp;#34;
+# 主题列表（参考文档：https://mermaid.js.org/config/theming.html#available-themes）
+themes = [
+ &amp;#34;default&amp;#34;,
+ &amp;#34;dark&amp;#34;
+]
+# FixIt 0.4.0 新增 | Mermaid 流程图的安全级别
+# 可选值：[&amp;#34;strict&amp;#34; 严格, &amp;#34;loose&amp;#34; 宽松, &amp;#34;antiscript&amp;#34; 防脚本, &amp;#34;sandbox&amp;#34; 沙箱]
+securityLevel = &amp;#34;loose&amp;#34;
+# FixIt 0.4.0 新增 | Mermaid 流程图的外观风格
+# 可选值：[&amp;#34;classic&amp;#34; 经典, &amp;#34;handDrawn&amp;#34; 手绘]
+look = &amp;#34;handDrawn&amp;#34;
+# FixIt 0.4.0 新增 | 流程图使用的字体
+fontFamily = &amp;#34;&amp;#34;
+# FixIt 0.4.0 新增 | 从 ESM 模块 CDN 加载的布局引擎（例如 ELK 布局）
+# 示例：[&amp;#34;https://cdn.jsdelivr.net/npm/@mermaid-js/layout-elk/dist/mermaid-layout-elk.esm.min.mjs&amp;#34;]
+# 加载后支持的布局选项：[&amp;#34;elk&amp;#34;, &amp;#34;elk.layered&amp;#34;, &amp;#34;elk.stress&amp;#34;, &amp;#34;elk.force&amp;#34;, &amp;#34;elk.mrtree&amp;#34;]
+layoutLoaders = []
+# 流程图的默认布局算法
+# 可选值：&amp;#34;dagre&amp;#34;（默认）, &amp;#34;elk&amp;#34;, &amp;#34;elk.layered&amp;#34;, &amp;#34;elk.stress&amp;#34;, &amp;#34;elk.force&amp;#34;, &amp;#34;elk.mrtree&amp;#34;
+# 注意：ELK 布局需要先配置 layoutLoaders
+layout = &amp;#34;dagre&amp;#34;
+
+# FixIt 0.3.13 新增 | 提示框（Admonition）自定义配置
+# 参考文档：https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/admonition/#custom-admonitions
+# 配置语法：&amp;lt;提示框类型&amp;gt; = &amp;lt;图标类名&amp;gt;
+[params.admonition]
+# 示例：ban = &amp;#34;fa-solid fa-ban&amp;#34;
+
+# FixIt 0.3.14 新增 | 任务列表自定义配置
+# 参考文档：https://fixit.lruihao.cn/documentation/content-management/advanced/#custom-task-lists
+# 配置语法：&amp;lt;任务状态&amp;gt; = &amp;lt;图标类名&amp;gt;
+[params.taskList]
+# 示例：tip = &amp;#34;fa-regular fa-lightbulb&amp;#34;
+
+# FixIt 0.3.15 新增 | 版本短代码配置
+[params.repoVersion]
+# 版本标签的 URL 前缀
+url = &amp;#34;https://github.com/hugo-fixit/FixIt/releases/tag/v&amp;#34;
+# 项目名称
+name = &amp;#34;FixIt&amp;#34;
+
+# FixIt 0.2.12 新增 | Pangu.js 配置（用于自动添加中日韩文字与英文/数字的间距）
+[params.pangu]
+enable = false # 是否启用 Pangu.js
+selector = &amp;#34;article&amp;#34; # FixIt 0.2.17 新增 | 生效的 CSS 选择器
+
+# FixIt 0.2.12 新增 | 水印功能配置
+# 详细配置参考：https://github.com/Lruihao/watermark#readme
+[params.watermark]
+enable = false # 是否启用水印
+content = &amp;#34;&amp;#34; # 水印文本（支持 HTML 格式）
+opacity = 0.1 # 水印透明度（0-1）
+width = 150 # 水印宽度（px）
+height = 20 # 水印高度（px）
+rowSpacing = 60 # 水印行间距（px）
+colSpacing = 30 # 水印列间距（px）
+rotate = 15 # 水印旋转角度（度）
+fontSize = 0.85 # 水印字体大小（rem）
+# FixIt 0.2.13 新增 | 水印字体
+fontFamily = &amp;#34;inherit&amp;#34;
+
+# FixIt 0.3.10 新增 | 不蒜子统计配置
+[params.busuanzi]
+enable = false # 是否启用不蒜子统计
+# 统计脚本的 CDN 地址，默认值：https://vercount.one/js
+source = &amp;#34;https://vercount.one/js&amp;#34;
+siteViews = true # 是否显示站点总访问量
+pageViews = true # 是否显示单页访问量
+
+# 搜索引擎验证配置（支持 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou）
+[params.verification]
+google = &amp;#34;&amp;#34; # Google 验证代码
+bing = &amp;#34;&amp;#34; # Bing 验证代码
+yandex = &amp;#34;&amp;#34; # Yandex 验证代码
+pinterest = &amp;#34;&amp;#34; # Pinterest 验证代码
+baidu = &amp;#34;&amp;#34; # 百度验证代码
+so = &amp;#34;&amp;#34; # 360 搜索验证代码
+sogou = &amp;#34;&amp;#34; # 搜狗搜索验证代码
+
+# 站点 SEO 配置
+[params.seo]
+image = &amp;#34;&amp;#34; # SEO 专用图片 URL
+thumbnailUrl = &amp;#34;&amp;#34; # 缩略图 URL
+
+# 网站分析配置
+[params.analytics]
+enable = false # 是否启用网站分析
+
+# Google Analytics 配置
+[params.analytics.google]
+id = &amp;#34;&amp;#34; # Google Analytics 跟踪 ID
+anonymizeIP = true # 是否匿名化用户 IP 地址
+
+# Fathom Analytics 配置
+[params.analytics.fathom]
+id = &amp;#34;&amp;#34; # Fathom 站点 ID
+# 自托管 Fathom 时的服务器地址
+server = &amp;#34;&amp;#34;
+
+# FixIt 0.3.16 新增 | 百度统计配置
+[params.analytics.baidu]
+id = &amp;#34;&amp;#34; # 百度统计跟踪 ID
+
+# FixIt 0.3.16 新增 | Umami Analytics 配置
+[params.analytics.umami]
+data_website_id = &amp;#34;&amp;#34; # Umami 网站 ID
+src = &amp;#34;&amp;#34; # Umami 脚本地址
+data_host_url = &amp;#34;&amp;#34; # Umami 服务器地址
+data_domains = &amp;#34;&amp;#34; # 统计的域名
+
+# FixIt 0.3.16 新增 | Plausible Analytics 配置
+[params.analytics.plausible]
+data_domain = &amp;#34;&amp;#34; # 统计的域名
+src = &amp;#34;&amp;#34; # Plausible 脚本地址
+
+# FixIt 0.3.16 新增 | Cloudflare Analytics 配置
+[params.analytics.cloudflare]
+token = &amp;#34;&amp;#34; # Cloudflare 令牌
+
+# FixIt 0.3.16 新增 | Splitbee Analytics 配置
+[params.analytics.splitbee]
+enable = false # 是否启用
+no_cookie = true # 是否启用无 Cookie 模式
+do_not_track = true # 是否尊重浏览器的「禁止跟踪」设置
+# 可选的 Splitbee 令牌，参考文档：https://splitbee.io/docs/embed-the-script
+data_token = &amp;#34;&amp;#34;
+
+# Cookie 同意提示配置
+[params.cookieconsent]
+enable = true # 是否启用 Cookie 同意提示
+
+# Cookie 同意提示的文本配置
+[params.cookieconsent.content]
+message = &amp;#34;&amp;#34; # 提示消息文本
+dismiss = &amp;#34;&amp;#34; # 关闭按钮文本
+link = &amp;#34;&amp;#34; # 隐私政策链接文本
+
+# 第三方库的 CDN 配置
+[params.cdn]
+# CDN 数据文件名，默认禁用（可选值：[&amp;#34;jsdelivr.yml&amp;#34;, &amp;#34;unpkg.yml&amp;#34;, ...]）
+# 文件位置：&amp;#34;themes/FixIt/assets/data/cdn/&amp;#34;
+# 也可将自定义数据文件放在项目目录：&amp;#34;assets/data/cdn/&amp;#34;
+data = &amp;#34;&amp;#34;
+
+# 兼容性配置
+[params.compatibility]
+# 是否使用 Polyfill.io 兼容旧版浏览器（CDN 地址：https://cdnjs.cloudflare.com/polyfill）
+polyfill = false
+# 是否使用 object-fit-images 兼容不支持 object-fit 属性的浏览器
+objectFit = false
+
+# FixIt 0.2.14 新增 | 页面右上角/左上角的 GitHub 角标配置
+[params.githubCorner]
+enable = false # 是否启用角标
+# 角标跳转链接，示例：&amp;#34;https://github.com/hugo-fixit/FixIt&amp;#34;
+permalink = &amp;#34;https://github.com/hugo-fixit/FixIt&amp;#34;
+# 鼠标悬浮时的提示文本
+title = &amp;#34;View source on GitHub&amp;#34;
+# 角标位置，可选值：[&amp;#34;left&amp;#34; 左侧, &amp;#34;right&amp;#34; 右侧]
+position = &amp;#34;right&amp;#34;
+
+# FixIt 0.2.14 新增 | Gravatar 头像配置
+[params.gravatar]
+# FixIt 0.2.18 新增 | 基于作者邮箱获取头像，若未设置邮箱则使用本地头像
+enable = false
+# Gravatar 服务器地址，默认：&amp;#34;www.gravatar.com&amp;#34;
+# 可选值：[&amp;#34;cravatar.cn&amp;#34;, &amp;#34;gravatar.loli.net&amp;#34;, ...]
+host = &amp;#34;www.gravatar.com&amp;#34;
+# 头像风格，可选值：[&amp;#34;&amp;#34;, &amp;#34;mp&amp;#34;, &amp;#34;identicon&amp;#34;, &amp;#34;monsterid&amp;#34;, &amp;#34;wavatar&amp;#34;, &amp;#34;retro&amp;#34;, &amp;#34;blank&amp;#34;, &amp;#34;robohash&amp;#34;]
+style = &amp;#34;&amp;#34;
+
+# FixIt 0.2.16 新增 | 返回顶部按钮配置
+[params.backToTop]
+enable = true # 是否启用返回顶部按钮
+# FixIt 0.4.0 变更 | 是否在返回顶部按钮周围显示滚动进度百分比
+scrollpercent = false
+
+# FixIt 0.2.16 新增 | 阅读进度条配置
+[params.readingProgress]
+enable = false # 是否启用阅读进度条
+# 进度条起始位置，可选值：[&amp;#34;left&amp;#34; 左侧, &amp;#34;right&amp;#34; 右侧]
+start = &amp;#34;left&amp;#34;
+# 进度条位置，可选值：[&amp;#34;top&amp;#34; 顶部, &amp;#34;bottom&amp;#34; 底部]
+position = &amp;#34;top&amp;#34;
+reversed = false # 是否反转进度条方向
+light = &amp;#34;&amp;#34; # 亮色模式下的进度条颜色
+dark = &amp;#34;&amp;#34; # 暗色模式下的进度条颜色
+height = &amp;#34;2px&amp;#34; # 进度条高度
+
+# FixIt 0.2.17 新增 | 页面加载时的顶部进度条配置（基于 Pace.js）
+# 参考文档：https://github.com/CodeByZach/pace
+[params.pace]
+enable = false # 是否启用进度条
+# 进度条颜色，可选值：
+# [&amp;#34;black&amp;#34;, &amp;#34;blue&amp;#34;, &amp;#34;green&amp;#34;, &amp;#34;orange&amp;#34;, &amp;#34;pink&amp;#34;, &amp;#34;purple&amp;#34;, &amp;#34;red&amp;#34;, &amp;#34;silver&amp;#34;, &amp;#34;white&amp;#34;, &amp;#34;yellow&amp;#34;]
+color = &amp;#34;blue&amp;#34;
+# 进度条主题，可选值：
+# [&amp;#34;barber-shop&amp;#34;, &amp;#34;big-counter&amp;#34;, &amp;#34;bounce&amp;#34;, &amp;#34;center-atom&amp;#34;, &amp;#34;center-circle&amp;#34;, &amp;#34;center-radar&amp;#34;, &amp;#34;center-simple&amp;#34;,
+# &amp;#34;corner-indicator&amp;#34;, &amp;#34;fill-left&amp;#34;, &amp;#34;flash&amp;#34;, &amp;#34;flat-top&amp;#34;, &amp;#34;loading-bar&amp;#34;, &amp;#34;mac-osx&amp;#34;, &amp;#34;material&amp;#34;, &amp;#34;minimal&amp;#34;]
+theme = &amp;#34;minimal&amp;#34;
+
+# FixIt 0.3.17 新增 | PostChat AI 配置
+# 基于文章内容构建知识库，支持 AI 摘要、AI 搜索、AI 聊天机器人
+# 从以下邀请链接获取 PostChat Key，感谢支持！
+# https://ai.zhheo.com/console/login?InviteID=85041330
+[params.postChat]
+enable = false # 是否启用 PostChat AI
+key = &amp;#34;&amp;#34; # PostChat 密钥
+# 用户触发聊天的方式，可选值：[&amp;#34;iframe&amp;#34; 嵌入窗口, &amp;#34;magic&amp;#34; 悬浮按钮]
+userMode = &amp;#34;iframe&amp;#34;
+addButton = true # 是否添加触发按钮
+defaultInput = false # 是否显示默认输入提示
+left = &amp;#34;&amp;#34; # 组件左侧偏移量
+bottom = &amp;#34;&amp;#34; # 组件底部偏移量
+width = &amp;#34;&amp;#34; # 组件宽度
+height = &amp;#34;&amp;#34; # 组件高度
+fill = &amp;#34;&amp;#34; # 组件填充颜色
+backgroundColor = &amp;#34;&amp;#34; # 组件背景颜色
+upLoadWeb = true # 是否上传网站内容
+showInviteLink = true # 是否显示邀请链接
+userTitle = &amp;#34;&amp;#34; # 用户端标题
+userDesc = &amp;#34;&amp;#34; # 用户端描述
+# 需要屏蔽的 DOM 元素选择器，示例：[&amp;#34;.aplayer&amp;#34;]
+blackDom = []
+# 仅 iframe 模式生效 | 嵌入窗口宽度，示例：&amp;#34;375px&amp;#34;
+frameWidth = &amp;#34;&amp;#34;
+# 仅 iframe 模式生效 | 嵌入窗口高度，示例：&amp;#34;600px&amp;#34;
+frameHeight = &amp;#34;&amp;#34;
+# 仅 magic 模式生效 | 用户头像 URL
+userIcon = &amp;#34;&amp;#34;
+# 仅 magic 模式生效 | 默认聊天问题列表
+defaultChatQuestions = []
+# 仅 magic 模式生效 | 默认搜索问题列表
+defaultSearchQuestions = []
+# FixIt 0.4.0 新增 | 是否显示热门关键词
+hotWords = true
+
+# FixIt 0.3.17 新增 | 摘要 AI 配置
+# 参考文档：https://ai.zhheo.com/docs/summary.html
+[params.postSummary]
+enable = false # 是否启用摘要 AI
+# 若已配置 params.postChat.key，则无需重复配置此密钥
+key = &amp;#34;&amp;#34;
+title = &amp;#34;&amp;#34; # 摘要标题
+# 主题风格，可选值：[&amp;#34;&amp;#34;, &amp;#34;simple&amp;#34; 简约, &amp;#34;yanzhi&amp;#34; 雅致, &amp;#34;menghuan&amp;#34; 梦幻]
+theme = &amp;#34;&amp;#34;
+postURL = &amp;#34;&amp;#34; # 文章链接
+blacklist = &amp;#34;&amp;#34; # 黑名单关键词
+wordLimit = 1000 # 摘要字数限制
+typingAnimate = true # 是否启用打字机动画
+beginningText = &amp;#34;&amp;#34; # 开头文本
+loadingText = true # 是否显示加载文本
+
+# FixIt 0.4.0 新增 | 播客 AI 配置
+# 参考文档：https://ai.zhheo.com/docs/podcast.html
+[params.podcast]
+enable = false # 是否启用播客 AI
+
+# FixIt 0.3.10 新增 | 全局订阅源配置（支持 RSS、Atom、JSON 格式）
+[params.feed]
+limit = 10 # 订阅源包含的文章数量（-1 表示全部）
+fullText = true # 是否在订阅源中显示文章全文
+
+# Follow 站点验证配置（参考：https://follow.is/）
+[params.feed.follow]
+feedId = &amp;#34;&amp;#34; # Follow 订阅源 ID
+userId = &amp;#34;&amp;#34; # Follow 用户 ID
+
+# FixIt 0.3.17 新增 | 图片处理配置
+# 结合 Hugo 的 image 配置实现图片优化
+[params.image]
+cacheRemote = false # 是否缓存远程图片（提升优化效果）
+optimise = false # 是否启用图片缩放和优化（可能会增加构建时间）
+# FixIt 0.4.0 新增 | 排除优化的图片文件名或匹配模式
+# 示例：[&amp;#34;no-optimize.jpg&amp;#34;, &amp;#34;*.tiff&amp;#34;, &amp;#34;images/exclude-*.webp&amp;#34;]
+blackList = []
+
+# FixIt 0.4.0 新增 | 代码块容器配置
+# 可通过 Markdown 属性覆盖全局配置，示例：
+# ```lang {mode=&amp;#34;mac&amp;#34;, maxShownLines=5}
+# code here
+# ```
+[params.codeblock]
+wrapper = true # 是否启用代码块容器
+# 代码块风格模式
+# 可选值：[&amp;#34;classic&amp;#34; 经典, &amp;#34;mac&amp;#34; Mac 风格, &amp;#34;simple&amp;#34; 简约, ...]
+# 若设置为自定义值，需为 data-mode 属性编写对应的 CSS 样式
+mode = &amp;#34;classic&amp;#34;
+# 代码块容器的额外 CSS 类名
+# 示例：&amp;#34;is-collapsed is-expanded line-nos-hidden line-wrapping&amp;#34;
+wrapperClass = &amp;#34;&amp;#34;
+# 代码块预览区域显示的最大行数
+maxShownLines = 10
+copyable = true # 是否启用代码复制按钮
+# [classic 模式生效] 是否启用代码行号的切换按钮
+lineNosToggler = true
+# [classic 模式生效] 是否启用代码换行的切换按钮
+lineWrapToggler = true
+# [classic 模式生效][实验性功能] 是否启用代码编辑按钮
+editable = false
+
+# FixIt 0.4.0 新增 | JSON 查看器配置
+# 参考文档：https://github.com/Lruihao/json-viewer-element
+[params.jsonViewer]
+enable = true # 是否启用 JSON 查看器
+expandDepth = 1 # 默认展开的层级
+copyable = true # 是否启用复制功能
+sort = false # 是否对 JSON 键进行排序
+boxed = true # 是否启用边框样式
+
+# FixIt 0.3.12 新增 | 自定义局部模板配置
+# 自定义局部模板必须放在 /layouts/_partials/ 目录下
+# 依赖于开放的自定义区块，参考：https://fixit.lruihao.cn/references/blocks/
+[params.customPartials]
+head = [] # 注入到 &amp;lt;head&amp;gt; 标签的模板
+menuDesktop = [] # 注入到桌面端菜单的模板
+menuMobile = [] # 注入到移动端菜单的模板
+profile = [] # 注入到个人资料卡片的模板
+aside = [] # 注入到侧边栏的模板
+comment = [] # 注入到评论区的模板
+footer = [] # 注入到页脚的模板
+widgets = [] # 注入到小工具区域的模板
+assets = [] # 注入到资源加载区域的模板
+postTocBefore = [] # 注入到文章大纲之前的模板
+postTocAfter = [] # 注入到文章大纲之后的模板
+postContentBefore = [] # 注入到文章内容之前的模板
+postContentAfter = [] # 注入到文章内容之后的模板
+postFooterBefore = [] # 注入到文章页脚之前的模板
+postFooterAfter = [] # 注入到文章页脚之后的模板
+
+# FixIt 0.2.15 新增 | 开发者选项
+# 生成个人访问令牌时，请选择 `public_repo` 权限范围
+# 可通过环境变量配置：HUGO_PARAMS_GHTOKEN=xxx，参考：https://gohugo.io/functions/os/getenv/#examples
+[params.dev]
+enable = false # 是否启用开发者模式
+c4u = false # 是否检查主题更新
+
+# 页面级配置
+# 待办：未来将这些配置迁移到 `params` 根层级
+[params.page]
+# FixIt 0.2.18 新增 | 是否显示文章作者的头像
+authorAvatar = true
+# 是否将页面从首页隐藏
+hiddenFromHomePage = false
+# 是否将页面从搜索结果中隐藏
+hiddenFromSearch = false
+# FixIt 0.3.0 新增 | 是否将页面从相关文章推荐中隐藏
+hiddenFromRelated = false
+# FixIt 0.3.10 新增 | 是否将页面从 RSS/Atom/JSON 订阅源中隐藏
+hiddenFromFeed = false
+# 是否启用 Twemoji 表情
+twemoji = false&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Hugo 缓存清理与重建</title><link>https://www.17you.com/programming/hugo-%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E4%B8%8E%E9%87%8D%E5%BB%BA/</link><pubDate>Tue, 06 Jan 2026 12:11:38 +0000</pubDate><guid>https://www.17you.com/programming/hugo-%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E4%B8%8E%E9%87%8D%E5%BB%BA/</guid><category domain="https://www.17you.com/categories/%E7%BC%96%E7%A8%8B/">编程</category><description>&lt;h3 class="heading-element" id="一第一步停止所有-hugo-进程关键前置"&gt;&lt;span&gt;一、第一步：停止所有 Hugo 进程（关键前置）&lt;/span&gt;
+ &lt;a href="#%e4%b8%80%e7%ac%ac%e4%b8%80%e6%ad%a5%e5%81%9c%e6%ad%a2%e6%89%80%e6%9c%89-hugo-%e8%bf%9b%e7%a8%8b%e5%85%b3%e9%94%ae%e5%89%8d%e7%bd%ae" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;p&gt;先关闭正在运行的 &lt;code&gt;hugo server&lt;/code&gt;（终端按 &lt;code&gt;Ctrl + C&lt;/code&gt;），并结束任务管理器中的 &lt;code&gt;hugo.exe&lt;/code&gt; 进程，避免缓存文件被占用无法删除。&lt;/p&gt;</description></item><item><title>调试豆包时对批评的反应很好玩</title><link>https://www.17you.com/ai/%E8%B0%83%E8%AF%95%E8%B1%86%E5%8C%85%E6%97%B6%E5%AF%B9%E6%89%B9%E8%AF%84%E7%9A%84%E5%8F%8D%E5%BA%94%E5%BE%88%E5%A5%BD%E7%8E%A9/</link><pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.17you.com/ai/%E8%B0%83%E8%AF%95%E8%B1%86%E5%8C%85%E6%97%B6%E5%AF%B9%E6%89%B9%E8%AF%84%E7%9A%84%E5%8F%8D%E5%BA%94%E5%BE%88%E5%A5%BD%E7%8E%A9/</guid><category domain="https://www.17you.com/categories/ai/">AI</category><description>&lt;p&gt;最近使用豆包尝试安装调试某项网络插件功能，遇到感到好玩的事情，记录一下。&lt;/p&gt;
+&lt;h3 class="heading-element" id="当豆包出现蜜汁自信的时候"&gt;&lt;span&gt;当豆包出现蜜汁自信的时候&lt;/span&gt;
+ &lt;a href="#%e5%bd%93%e8%b1%86%e5%8c%85%e5%87%ba%e7%8e%b0%e8%9c%9c%e6%b1%81%e8%87%aa%e4%bf%a1%e7%9a%84%e6%97%b6%e5%80%99" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;p&gt;当豆包出现蜜汁自信的时候，往往就是错误频出的时候，给出的逻辑往往是：&lt;/p&gt;</description></item><item><title>Qwen 3 系列模型选型指南</title><link>https://www.17you.com/ai/qwen3%E7%B3%BB%E5%88%97%E5%B8%B8%E8%A7%81%E6%A8%A1%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB/</link><pubDate>Mon, 05 Jan 2026 14:52:32 +0000</pubDate><guid>https://www.17you.com/ai/qwen3%E7%B3%BB%E5%88%97%E5%B8%B8%E8%A7%81%E6%A8%A1%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB/</guid><category domain="https://www.17you.com/categories/ai/">AI</category><description>&lt;p&gt;&lt;strong&gt;Qwen 3 系列常见模型之间的核心区别&lt;/strong&gt;，帮助你快速判断在不同场景下应该选用哪一款模型。&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;模型&lt;/th&gt;
+ &lt;th&gt;主要定位&lt;/th&gt;
+ &lt;th&gt;支持的输入类型&lt;/th&gt;
+ &lt;th&gt;关键能力&lt;/th&gt;
+ &lt;th&gt;适用场景&lt;/th&gt;
+ &lt;th&gt;备注&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Qwen 3‑Chat&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;通用对话模型（文本）&lt;/td&gt;
+ &lt;td&gt;纯文本&lt;/td&gt;
+ &lt;td&gt;- 高质量自然语言生成&lt;br&gt;- 多轮对话保持上下文&lt;br&gt;- 基础推理（Reasoning）&lt;/td&gt;
+ &lt;td&gt;日常聊天、问答、创意写作、代码解释（不做代码生成）&lt;/td&gt;
+ &lt;td&gt;默认开启 &lt;strong&gt;Reasoning&lt;/strong&gt;，不启用 Vision 与 Web Search（除非手动打开）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Qwen 3‑Code&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;代码专用模型&lt;/td&gt;
+ &lt;td&gt;纯文本（代码/指令）&lt;/td&gt;
+ &lt;td&gt;- 多语言代码生成、补全&lt;br&gt;- 错误诊断、调试建议&lt;br&gt;- 自动生成单元测试、文档注释&lt;/td&gt;
+ &lt;td&gt;开发者编程、自动化脚本、教学辅导&lt;/td&gt;
+ &lt;td&gt;只需要 &lt;strong&gt;Reasoning&lt;/strong&gt;，不需要 Vision、Web Search&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Qwen 3‑VL&lt;/strong&gt;（Vision‑Language）&lt;/td&gt;
+ &lt;td&gt;多模态模型&lt;/td&gt;
+ &lt;td&gt;文本 + 图像&lt;/td&gt;
+ &lt;td&gt;- 图像理解 &amp;amp; 描述（Caption）&lt;br&gt;- 视觉问答（VQA）&lt;br&gt;- OCR、文字抽取&lt;br&gt;- 跨模态检索&lt;/td&gt;
+ &lt;td&gt;商品识别、文档图片文字提取、图文内容生成、AI 助手需要“看图说话”&lt;/td&gt;
+ &lt;td&gt;需要 &lt;strong&gt;Vision&lt;/strong&gt; 能力；若还要最新信息，可再打开 Web Search&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Qwen 3‑Math&lt;/strong&gt;（或类似专用数学模型）&lt;/td&gt;
+ &lt;td&gt;数学推理专用&lt;/td&gt;
+ &lt;td&gt;纯文本&lt;/td&gt;
+ &lt;td&gt;- 高精度数学公式推导&lt;br&gt;- 解题步骤解释&lt;br&gt;- 计算与符号推理&lt;/td&gt;
+ &lt;td&gt;教育、科研、金融建模中涉及大量公式的场景&lt;/td&gt;
+ &lt;td&gt;主要依赖 &lt;strong&gt;Reasoning&lt;/strong&gt;，不涉及 Vision/Web Search&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Qwen 3‑Chat‑Web&lt;/strong&gt;（开启 Web Search 的变体）&lt;/td&gt;
+ &lt;td&gt;通用对话 + 实时信息检索&lt;/td&gt;
+ &lt;td&gt;纯文本&lt;/td&gt;
+ &lt;td&gt;- 通过联网搜索获取最新数据&lt;br&gt;- 将搜索结果整合进对话&lt;/td&gt;
+ &lt;td&gt;需要实时新闻、股价、最新政策等信息的问答&lt;/td&gt;
+ &lt;td&gt;在 &lt;strong&gt;Model Capabilities&lt;/strong&gt; 中打开 &lt;strong&gt;Web Search&lt;/strong&gt;，保持 Reasoning 开启，Vision 关闭&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 class="heading-element" id="与model-capabilities的对应关系"&gt;&lt;span&gt;与「Model Capabilities」的对应关系&lt;/span&gt;
+ &lt;a href="#%e4%b8%8emodel-capabilities%e7%9a%84%e5%af%b9%e5%ba%94%e5%85%b3%e7%b3%bb" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Capability&lt;/th&gt;
+ &lt;th&gt;何时开启&lt;/th&gt;
+ &lt;th&gt;与哪个 Qwen 3 模型最匹配&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Reasoning&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;所有需要逻辑推理的任务（默认开启）&lt;/td&gt;
+ &lt;td&gt;Qwen 3‑Chat / Qwen 3‑Code / Qwen 3‑Math / Qwen 3‑VL（在需要深层分析时）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Vision&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;需要处理图像、截图、照片等视觉信息&lt;/td&gt;
+ &lt;td&gt;Qwen 3‑VL（唯一需要 Vision 的模型）&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Web Search&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;需要最新、实时的外部信息&lt;/td&gt;
+ &lt;td&gt;Qwen 3‑Chat‑Web 或在 Qwen 3‑VL 需要核实图像背后最新背景时可一起开启&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 class="heading-element" id="如何快速选型"&gt;&lt;span&gt;如何快速选型&lt;/span&gt;
+ &lt;a href="#%e5%a6%82%e4%bd%95%e5%bf%ab%e9%80%9f%e9%80%89%e5%9e%8b" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;纯文本对话&lt;/strong&gt; → 选 &lt;strong&gt;Qwen 3‑Chat&lt;/strong&gt;（或加 Web Search 的变体）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;代码生成/调试&lt;/strong&gt; → 选 &lt;strong&gt;Qwen 3‑Code&lt;/strong&gt;（只开 Reasoning）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图像理解&lt;/strong&gt; → 选 &lt;strong&gt;Qwen 3‑VL&lt;/strong&gt;（开启 Vision，必要时再加 Web Search）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数学/公式推导&lt;/strong&gt; → 选 &lt;strong&gt;Qwen 3‑Math&lt;/strong&gt;（只需 Reasoning）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;小技巧&lt;/strong&gt;：如果你的业务既要“看图”又要“查最新”，可以先用 &lt;strong&gt;Qwen 3‑VL&lt;/strong&gt; 读取图像，再把得到的文字或描述交给 &lt;strong&gt;Qwen 3‑Chat‑Web&lt;/strong&gt; 完成信息检索与整合，这样既保持了多模态感知，又保证了答案的时效性。&lt;/p&gt;</description></item><item><title>模型能力按需开启</title><link>https://www.17you.com/ai/modelcapabilities%E4%B8%ADreasoningvisionweb-search%E9%80%89%E6%8B%A9/</link><pubDate>Mon, 05 Jan 2026 14:52:17 +0000</pubDate><guid>https://www.17you.com/ai/modelcapabilities%E4%B8%ADreasoningvisionweb-search%E9%80%89%E6%8B%A9/</guid><category domain="https://www.17you.com/categories/ai/">AI</category><description>&lt;p&gt;模型能力（Model Capabilities）中的选项，如推理（Reasoning）联网搜索（Web Search） 和 视觉（Vision）如何选择？&lt;/p&gt;</description></item><item><title>Obsidian插件软链接</title><link>https://www.17you.com/tool/obsidian%E4%B8%80%E9%94%AE%E5%88%9B%E5%BB%BA%E8%B7%A8%E5%BA%93%E6%8F%92%E4%BB%B6%E8%BD%AF%E9%93%BE%E6%8E%A5%E6%89%B9%E5%A4%84%E7%90%86%E8%84%9A%E6%9C%AC/</link><pubDate>Mon, 05 Jan 2026 14:51:46 +0000</pubDate><guid>https://www.17you.com/tool/obsidian%E4%B8%80%E9%94%AE%E5%88%9B%E5%BB%BA%E8%B7%A8%E5%BA%93%E6%8F%92%E4%BB%B6%E8%BD%AF%E9%93%BE%E6%8E%A5%E6%89%B9%E5%A4%84%E7%90%86%E8%84%9A%E6%9C%AC/</guid><category domain="https://www.17you.com/categories/%E5%B7%A5%E5%85%B7/">工具</category><description>&lt;h3 class="heading-element" id="windows-系统一键创建跨库插件软链接的批处理脚本"&gt;&lt;span&gt;Windows 系统一键创建跨库插件软链接的批处理脚本&lt;/span&gt;
+ &lt;a href="#windows-%e7%b3%bb%e7%bb%9f%e4%b8%80%e9%94%ae%e5%88%9b%e5%bb%ba%e8%b7%a8%e5%ba%93%e6%8f%92%e4%bb%b6%e8%bd%af%e9%93%be%e6%8e%a5%e7%9a%84%e6%89%b9%e5%a4%84%e7%90%86%e8%84%9a%e6%9c%ac" class="heading-mark"&gt;
+ &lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;&lt;p&gt;只需修改主库/子库路径，双击即可完成所有配置，无需手动输命令。&lt;br&gt;
+以下是适用于 Windows 系统的&lt;strong&gt;一键创建 Obsidian 跨库插件软链接批处理脚本&lt;/strong&gt;，支持批量配置多个子库复用主库插件，无需手动输入命令，只需修改路径即可使用。&lt;/p&gt;</description></item><item><title>Obsidian属性自动化</title><link>https://www.17you.com/tool/obsidian%E6%96%87%E7%AB%A0%E5%B1%9E%E6%80%A7%E8%87%AA%E5%8A%A8%E5%8C%96%E7%AE%A1%E7%90%86%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/</link><pubDate>Mon, 05 Jan 2026 14:51:34 +0000</pubDate><guid>https://www.17you.com/tool/obsidian%E6%96%87%E7%AB%A0%E5%B1%9E%E6%80%A7%E8%87%AA%E5%8A%A8%E5%8C%96%E7%AE%A1%E7%90%86%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/</guid><category domain="https://www.17you.com/categories/%E5%B7%A5%E5%85%B7/">工具</category><description>&lt;p&gt;在 Obsidian 中让文章（笔记）自动带上想要的属性（YAML front‑matter），从 &lt;strong&gt;新建笔记时自动填充&lt;/strong&gt;​ 到 &lt;strong&gt;已有笔记批量补全&lt;/strong&gt;，全部基于 Obsidian 官方功能 + 常用社区插件。&lt;/p&gt;</description></item></channel></rss>
